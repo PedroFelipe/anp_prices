@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/anp_prices.png)](http://badge.fury.io/rb/anp_prices)
 [![Build Status](https://travis-ci.org/rogeriozambon/anp_prices.png?branch=master)](https://travis-ci.org/rogeriozambon/anp_prices)
-[![Code Climate](https://codeclimate.com/github/rogeriozambon/anp_prices.png)](https://codeclimate.com/github/rogeriozambon/anp_prices)
+[![Code Climate](https://codeclimate.com/github/PedroFelipe/anp_prices/badges/gpa.svg)](https://codeclimate.com/github/PedroFelipe/anp_prices)
 
 Get fuel prices of the ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) Brazil.
 
